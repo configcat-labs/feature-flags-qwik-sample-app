@@ -19,7 +19,7 @@ In this repository you will find a sample e-commerce website created in Qwik. Th
 ## Learn more
 
 - [Qwik Documentation](https://qwik.builder.io/docs/)
-- [ConfigCat Server-Side Javascript SDK Documentation]https://configcat.com/docs/sdk-reference/js/)
+- [ConfigCat Server-Side Javascript SDK Documentation](https://configcat.com/docs/sdk-reference/js/)
 - [Building an app with Qwik](https://blog.logrocket.com/building-app-qwik/)
 
 [**ConfigCat**](https://configcat.com) also supports many other frameworks and languages. Check out the full list of supported SDKs [here](https://configcat.com/docs/sdk-reference/overview/).
